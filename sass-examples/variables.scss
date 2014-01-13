@@ -1,0 +1,8 @@
+$primary-color: blue;
+$secondary-color: green;
+a {
+  color: $primary-color;
+  &:hover {
+    color: $secondary-color;
+  }
+}

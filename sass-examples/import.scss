@@ -1,0 +1,11 @@
+@import "reset";
+
+$primary-color: green;
+$secondary-color: red;
+
+section {
+  color: $primary-color;
+  p {
+    color: $secondary-color;
+  }
+}

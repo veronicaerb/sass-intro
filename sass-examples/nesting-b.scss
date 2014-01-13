@@ -1,0 +1,9 @@
+.feature {
+  background-color: black;
+  a {
+    color: cyan;
+    &:hover {
+      color: lime;
+    }
+  }
+}
