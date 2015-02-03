@@ -1,7 +1,7 @@
 sass-intro
 ==========
 
-Materials for an introduction to Sass workshop.
+Materials for an introduction to Sass workshop. [Slides for workshop](https://speakerdeck.com/veronicaerb/intro-to-sass) are on Speaker Deck.
 
 Workshop materials by [Veronica Erb](https://github.com/veronicaerb) [@verbistheword](http://twitter.com/verbistheword)
 
